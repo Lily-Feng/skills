@@ -1,0 +1,4 @@
+interface:
+  display_name: "Idea Planner"
+  short_description: "Validate ideas and build executable plans"
+  default_prompt: "Use $idea-planner to refine this idea, check market and GitHub duplication, and produce an implementation plan."
