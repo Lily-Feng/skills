@@ -1,0 +1,4 @@
+interface:
+  display_name: "Grill Me: Architecture"
+  short_description: "Stress-test architecture without overbuilding"
+  default_prompt: "Use $grill-me to stress-test my design, teach me the key architecture tradeoffs, and keep the solution as simple as the evidence allows."
