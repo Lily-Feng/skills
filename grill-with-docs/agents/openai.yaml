@@ -1,0 +1,4 @@
+interface:
+  display_name: "Grill With Docs"
+  short_description: "Grill a plan and write its docs"
+  default_prompt: "Use $grill-with-docs to interview me about this plan, cross-check it against the project's docs and code, and write resolved terms/decisions into CONTEXT.md and ADRs as we go."
