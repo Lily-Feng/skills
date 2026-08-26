@@ -127,11 +127,6 @@ criteria, risks, and a decision gate. Cover architecture, data, interfaces,
 security/privacy, observability, testing, delivery, and operations in proportion
 to the idea.
 
-Suggest tools and MCP/connectors by job to be done. Inspect the tools actually
-available in the current environment before naming one as ready to use. Mark
-missing integrations as optional; never claim installation or authorization.
-Prefer existing repository tooling and first-party/official integrations over
-adding another platform.
 
 ## Quality rules
 
