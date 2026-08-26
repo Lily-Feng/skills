@@ -1,7 +1,5 @@
-# skills
-My good to share skills collection that helps me speed up daily work
 
-## Skills
+## Skills of my choice
 
 - [grill-me](grill-me) - codebase-aware interview that stress-tests a plan or architecture
 - [idea-planner](idea-planner) - refine, validate, research, and plan an idea into an executable roadmap
