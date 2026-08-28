@@ -1,0 +1,71 @@
+{
+  "title": "Agent Skills Index",
+  "subtitle": "Skills I track, tiered by how they fit my work. Star counts refresh automatically; the notes are mine.",
+  "tiers": [
+    { "id": "adopt", "label": "Adopt", "blurb": "In use or worth the setup cost now." },
+    { "id": "study", "label": "Study", "blurb": "Read the design, don't install -- overlaps something I already wrote." },
+    { "id": "watch", "label": "Watch", "blurb": "Interesting, unproven for my work, or a poor tradeoff today." }
+  ],
+  "skills": [
+    {
+      "repo": "anthropics/skills",
+      "tier": "adopt",
+      "note": "Official document skills (Word/Excel/PDF). Replaces my hand-rolled md2docx.py for resume and report output."
+    },
+    {
+      "repo": "multica-ai/andrej-karpathy-skills",
+      "tier": "adopt",
+      "note": "One CLAUDE.md of LLM coding pitfalls. Highest signal-per-minute on this list; cherry-pick lines into my own."
+    },
+    {
+      "repo": "Graphify-Labs/graphify",
+      "tier": "adopt",
+      "note": "Codebases, SQL schemas and PDFs into a queryable knowledge graph. Reference implementation for entity extraction and edge weighting."
+    },
+    {
+      "repo": "Egonex-AI/Understand-Anything",
+      "tier": "adopt",
+      "note": "Code into interactive knowledge graphs. Direct comparison point for my weighted-knowledge-graph prototype."
+    },
+    {
+      "repo": "pbakaus/impeccable",
+      "tier": "adopt",
+      "note": "Design language for AI harnesses. Portfolio and demo UI are judged in 90 seconds -- pick this or ui-ux-pro-max, not both."
+    },
+    {
+      "repo": "mattpocock/skills",
+      "tier": "study",
+      "note": "Source I adapted grill-with-docs, tdd and code-review from (MIT). Worth re-reading when it moves."
+    },
+    {
+      "repo": "obra/superpowers",
+      "tier": "study",
+      "note": "Industrial-grade plan-first framework. Overlaps my grill-me and idea-planner -- steal the skill-discovery structure, stay the author."
+    },
+    {
+      "repo": "addyosmani/agent-skills",
+      "tier": "study",
+      "note": "Production engineering habits. Compare its review gates against my two-axis code-review skill."
+    },
+    {
+      "repo": "affaan-m/ECC",
+      "tier": "study",
+      "note": "Formerly everything-claude-code; the old slug now 404s. Hooks, rules and harness config -- adopt only when a friction actually bites."
+    },
+    {
+      "repo": "nextlevelbuilder/ui-ux-pro-max-skill",
+      "tier": "watch",
+      "note": "Page design that doesn't read as AI-generated. Alternative to impeccable; evaluate one against the other before committing."
+    },
+    {
+      "repo": "DietrichGebert/ponytail",
+      "tier": "watch",
+      "note": "Pushes the agent toward less and simpler code. Marginal on top of my tdd skill."
+    },
+    {
+      "repo": "JuliusBrussee/caveman",
+      "tier": "watch",
+      "note": "65% token savings by degrading prompt register. Wrong trade when the output is portfolio work."
+    }
+  ]
+}

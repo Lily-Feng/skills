@@ -10,6 +10,14 @@
 Skills pending:
 ui-designer
 
+## Index of skills I track
+
+[INDEX.md](INDEX.md) — external agent-skill repos I follow, tiered Adopt / Study / Watch,
+with star counts refreshed automatically by
+[`.github/workflows/update-skill-index.yml`](.github/workflows/update-skill-index.yml).
+Edit [`tracked-skills.json`](tracked-skills.json) to add or re-tier an entry; never edit the
+generated table by hand.
+
 ## Credits
 
 `grill-with-docs`, `tdd`, and `code-review` are adapted from
