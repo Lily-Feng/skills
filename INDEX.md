@@ -3,7 +3,7 @@
 Skills I track, tiered by how they fit my work. Star counts refresh automatically; the notes are mine.
 
 <!-- SKILL-INDEX:START -->
-_Star counts refreshed 2026-08-31._
+_Star counts refreshed 2026-09-01._
 
 ## Adopt
 
@@ -11,11 +11,11 @@ _In use or worth the setup cost now._
 
 | Stars | Change | Repo | Why I track it |
 | ----: | :----- | :--- | :------------- |
-| 209k | +642 | [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills) | One CLAUDE.md of LLM coding pitfalls. Highest signal-per-minute on this list; cherry-pick lines into my own. |
-| 172.7k | +476 | [anthropics/skills](https://github.com/anthropics/skills) | Official document skills (Word/Excel/PDF). Replaces my hand-rolled md2docx.py for resume and report output. |
-| 112.9k | +908 | [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify) | Codebases, SQL schemas and PDFs into a queryable knowledge graph. Reference implementation for entity extraction and edge weighting. |
-| 81.2k | +286 | [Egonex-AI/Understand-Anything](https://github.com/Egonex-AI/Understand-Anything) | Code into interactive knowledge graphs. Direct comparison point for my weighted-knowledge-graph prototype. |
-| 64.2k | +651 | [pbakaus/impeccable](https://github.com/pbakaus/impeccable) | Design language for AI harnesses. Portfolio and demo UI are judged in 90 seconds -- pick this or ui-ux-pro-max, not both. |
+| 209.2k | +166 | [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills) | One CLAUDE.md of LLM coding pitfalls. Highest signal-per-minute on this list; cherry-pick lines into my own. |
+| 172.9k | +125 | [anthropics/skills](https://github.com/anthropics/skills) | Official document skills (Word/Excel/PDF). Replaces my hand-rolled md2docx.py for resume and report output. |
+| 113.1k | +267 | [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify) | Codebases, SQL schemas and PDFs into a queryable knowledge graph. Reference implementation for entity extraction and edge weighting. |
+| 81.2k | +61 | [Egonex-AI/Understand-Anything](https://github.com/Egonex-AI/Understand-Anything) | Code into interactive knowledge graphs. Direct comparison point for my weighted-knowledge-graph prototype. |
+| 64.5k | +237 | [pbakaus/impeccable](https://github.com/pbakaus/impeccable) | Design language for AI harnesses. Portfolio and demo UI are judged in 90 seconds -- pick this or ui-ux-pro-max, not both. |
 
 ## Study
 
@@ -23,10 +23,10 @@ _Read the design, don't install -- overlaps something I already wrote._
 
 | Stars | Change | Repo | Why I track it |
 | ----: | :----- | :--- | :------------- |
-| 279.9k | +883 | [obra/superpowers](https://github.com/obra/superpowers) | Industrial-grade plan-first framework. Overlaps my grill-me and idea-planner -- steal the skill-discovery structure, stay the author. |
-| 244.9k | +996 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | Formerly everything-claude-code; the old slug now 404s. Hooks, rules and harness config -- adopt only when a friction actually bites. |
-| 242.4k | +2.3k | [mattpocock/skills](https://github.com/mattpocock/skills) | Source I adapted grill-with-docs, tdd and code-review from (MIT). Worth re-reading when it moves. |
-| 91k | +572 | [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | Production engineering habits. Compare its review gates against my two-axis code-review skill. |
+| 280.2k | +274 | [obra/superpowers](https://github.com/obra/superpowers) | Industrial-grade plan-first framework. Overlaps my grill-me and idea-planner -- steal the skill-discovery structure, stay the author. |
+| 245.4k | +451 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | Formerly everything-claude-code; the old slug now 404s. Hooks, rules and harness config -- adopt only when a friction actually bites. |
+| 243.2k | +738 | [mattpocock/skills](https://github.com/mattpocock/skills) | Source I adapted grill-with-docs, tdd and code-review from (MIT). Worth re-reading when it moves. |
+| 91.3k | +224 | [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | Production engineering habits. Compare its review gates against my two-axis code-review skill. |
 
 ## Watch
 
@@ -34,9 +34,9 @@ _Interesting, unproven for my work, or a poor tradeoff today._
 
 | Stars | Change | Repo | Why I track it |
 | ----: | :----- | :--- | :------------- |
-| 123.4k | +853 | [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) | Page design that doesn't read as AI-generated. Alternative to impeccable; evaluate one against the other before committing. |
-| 117.9k | +2.7k | [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) | Pushes the agent toward less and simpler code. Marginal on top of my tdd skill. |
-| 102k | +366 | [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) | 65% token savings by degrading prompt register. Wrong trade when the output is portfolio work. |
+| 123.6k | +250 | [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) | Page design that doesn't read as AI-generated. Alternative to impeccable; evaluate one against the other before committing. |
+| 118.8k | +991 | [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) | Pushes the agent toward less and simpler code. Marginal on top of my tdd skill. |
+| 102.1k | +120 | [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) | 65% token savings by degrading prompt register. Wrong trade when the output is portfolio work. |
 
 <sub>Generated by `scripts/update_index.py`. Edit `tracked-skills.json`, not this table.</sub>
 <!-- SKILL-INDEX:END -->
