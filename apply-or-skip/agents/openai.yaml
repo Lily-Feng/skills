@@ -1,0 +1,4 @@
+interface:
+  display_name: "Apply or Skip"
+  short_description: "Decide whether a job posting is worth applying to"
+  default_prompt: "Use $apply-or-skip to match this job description against my resume, score screen vs substance fit, and tell me whether to apply."

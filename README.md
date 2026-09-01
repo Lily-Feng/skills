@@ -6,6 +6,7 @@
 - [grill-with-docs](grill-with-docs) - grill a plan against the project's docs and code, writing resolved terms/decisions into CONTEXT.md and ADRs as you go
 - [tdd](tdd) - red-green-refactor loop with rules for what makes a test worth keeping
 - [code-review](code-review) - two-axis review (Standards vs Spec) of a diff since a fixed point, run as parallel sub-agents
+- [apply-or-skip](apply-or-skip) - match a job description against a resume, score screen fit vs substance fit, and return an apply/skip verdict with the tailoring work required
 
 Skills pending:
 ui-designer
